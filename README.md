@@ -1,5 +1,4 @@
-# Design-of-Gobang-Algorithm-based-on-Scoring-Strategy-of-Attack-and-Defense-Positions
-程序说明：
+# 程序说明
 
 想要运行这款五子棋软件，你至少需要具有如下环境：
 1. Python3或更高版本
